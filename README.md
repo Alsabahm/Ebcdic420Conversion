@@ -35,4 +35,5 @@ but also portable to x86 Linux and Windows.
 
 ### Build on Linux / z/OS Linux partition
 ```bash
-git clone https://github.com/Al
+git clone https://github.com/Alsabahm/Ebcdic420Conversion.git
+
